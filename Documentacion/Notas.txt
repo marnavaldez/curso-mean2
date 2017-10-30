@@ -1,3 +1,11 @@
+Instalacion de Node
+
+This package has installed:
+	•	Node.js v8.8.1 to /usr/local/bin/node
+	•	npm v5.4.2 to /usr/local/bin/npm
+Make sure that /usr/local/bin is in your $PATH.
+
+------------------------------------------------------
 Actualizar npm
 
 sudo npm install -g npm

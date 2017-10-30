@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 256,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/curso-mean2"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/curso-mean2/Documentacion/Notas.txt",
+		"/Users/mar/Google Drive/Documents/Develop/Movil/Android/Proyectos/nestor/BD_SQLite/src/misql/Conexion.java",
+		"/Users/mar/Google Drive/Documents/Develop/Movil/Android/Proyectos/nestor/BD_SQLite/src/misql/UsuarioDataSource.java",
+		"/Users/mar/AndroidStudioProjects/carpeta sin título/NeoteckTest/NeoteckTest.iml",
+		"/Users/mar/Documents/FAMv2/Nota Médica/Variables.txt",
+		"/Users/mar/Downloads/Mongo/mongodb-osx-x86_64-3.4.10/README",
+		"/Users/mar/AndroidStudioProjects/carpeta sin título/NeoteckTest/local.properties",
+		"/Users/mar/keystores/clientkeystore",
+		"/Users/mar/keystores/marnaKey.jks",
+		"/Users/mar/keystores/signingConfig.storeFile",
+		"/Users/mar/Documents/develop/SGM/grails-app/views/admin/index.gsp",
+		"/Users/mar/Documents/develop/SGM/grails-app/views/main/index.gsp",
+		"/Users/mar/Documents/develop/SGM/grails-app/views/layouts/main.gsp",
+		"/Users/mar/Google Drive/Develop/Movil/Mapas de Valor/Proyecto/Código borrado.swift/Código borrado.swift",
+		"/Users/mar/Documents/develop/SGM/grails-app/controllers/sgm/AdminController.groovy",
+		"/Users/mar/Google Drive/Develop/Web/hola-grails/src/apps/info.json",
+		"/Users/mar/Desktop/:: Alert con UIDatePicker.swift",
+		"/Users/mar/Library/Mobile Documents/com~apple~CloudDocs/Develop/iOS Utilities/updateProduct_swift.groovy",
+		"/Users/mar/Google Drive/Develop/Movil/Mapas de Valor/Proyecto/Formulas.txt",
+		"/Users/mar/Desktop/Mensajes HL7 Medicamentos.txt",
+		"/Users/mar/Google Drive/Develop/Web/test/style.css",
+		"/Users/mar/Google Drive/Develop/Web/test/script.js",
+		"/Users/mar/Google Drive/Develop/Web/SGM/grails-app/controllers/sgm/AdminController.groovy",
+		"/Users/mar/Documents/develop/ok/SGM/grails-app/controllers/sgm/AdminController.groovy",
+		"/Users/mar/Google Drive/Develop/Web/hola-grails/.bash_profile",
+		"/Users/mar/Documents/Mapa_de_Valor/.git/COMMIT_EDITMSG",
+		"/Users/mar/Documents/Mapa_de_Valor/.git/.COMMIT_EDITMSG.swp",
+		"/Users/mar/Documents/Mapa_de_Valor/CompetitorVC_bak.swift",
+		"/Users/mar/Google Drive/Develop/Web/test/index.html",
+		"/Users/mar/Desktop/index.html",
+		"/Library/PreferencePanes/Tuxera NTFS.prefPane/Contents/MacOS/Tuxera NTFS",
+		"/Users/mar/Sites/devdesktop/yogastudio/.htaccess",
+		"/Users/mar/Google Drive/Bluehealth/Flujos de Atención/Guardia nocturna.txt",
+		"/Users/mar/Google Drive/Bluehealth/Juntas/Junta de revisión L-30-01",
+		"/Users/mar/Google Drive/Documents/Cursos/iOS 10/ChicoFit/ChicoFit/AppDelegate.swift",
+		"/Users/mar/Google Drive/Icon\r",
+		"/Users/mar/Documents/iPhone 5S 16GB/iPhone 5s.html",
+		"/Users/mar/Google Drive/BTS/Mesa Central/Conexiones/TeamViewer.txt",
+		"/Users/mar/Google Drive/Develop/Movil/JSONTest/Podfile",
+		"/Users/mar/Library/Mobile Documents/com~apple~CloudDocs/Utilities OS/Mac OSX/OSX/Mostrar archivos ocultos.txt",
+		"/Users/mar/Movies/4P0K4L170/Nota.txt",
+		"/Users/mar/Desktop/Bigasoft Total Video Converter for Mac/SN.txt",
+		"/Volumes/MAR/Programas/OSX/Diseño/Balsamiq Mockups 3.3.12/Mockups 3 SN.rtf",
+		"/Volumes/MAR/Programas/OSX/Diseño/Balsamiq Mockups 3.3.12/Mockups 3 SN.txt",
+		"/Users/mar/Google Drive/BTS/Mesa Central/Scripts/Utiles.sql",
+		"/Users/mar/Downloads/Dumpper Jumpstar Internet/instrucciones",
+		"/Users/mar/Google Drive/BTS/Documentos/Chilpancingo/Correos personal.txt",
+		"/Users/mar/Google Drive/BTS/Documentos/Chilpancingo/Transitorio/Entregables/Anexo 08 Constancia de capacion",
+		"/Users/mar/Google Drive/BTS/Documentos/Chilpancingo/Correos Personal/Correos personal.txt",
+		"/Users/mar/Google Drive/BTS/Utiles/Sharepoint.txt",
+		"/Users/mar/Desktop/Mostrar archivos ocultos.txt",
+		"/Users/mar/Downloads/Senuti 1.3.3/Serial",
+		"/Volumes/NO NAME/Link Producción Guerrero.txt",
+		"/Volumes/TheBlackSeeds/Programas/OSX/Diseño/Adobe Photoshop CC 2014 (Mac)+Camera Raw 8.5 [ChingLiu]/Metodo 2 (Keygen X-Force)/install.txt",
+		"/Volumes/TOUCHSTONE/ /gDkH3a.JqcNugD.CVnKr.IigsX.LewF.3FyPbnzw.1YrOBiT.1Yr9SzsJ",
+		"/Users/mar/Google Drive/Casa terminos.txt",
+		"/Users/mar/Desktop/cotizacion.rtf",
+		"/Volumes/TheBlackSeeds/Documentos/BTS/Manuales/Nuevos Acusatorio/Cotizar costo por manual.txt",
+		"/Users/mar/Downloads/JavaFxSceneGraphExample/FxSceneGraphExample1.java",
+		"/Users/mar/Library/Mobile Documents/com~apple~CloudDocs/Develop/Varios JButton en un metodo.java",
+		"/Users/mar/Documents/3 en Raya/test.html",
+		"/Users/mar/Documents/3 en Raya/3 en raya",
+		"/Volumes/TheBlackSeeds/Programas/OSX/Editores/Serial Sublime Text Build 3083.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-curso-mean2.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

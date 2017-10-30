@@ -1,0 +1,33 @@
+Actualizar npm
+
+sudo npm install -g npm
+------------------------------------------------------
+
+Al instalar mongodb, hay que crear una carpeta (data) en la raiz del disco duro, y dentro otra con nombre db
+
+/data/db
+o 
+C:/data/db
+------------------------------------------------------
+--- Para crear una base de datos como ejemplo se tienen los siguientes comandos ---
+show dbs
+use curso_node_angular2
+
+db.bookmarks.save({id: 1, title: 'Curso de Angular 2', url: 'http://victorroblesweb.es/cursos', description: 'El mejor curso de Angular 2 en español'});
+
+dbs.bookmarks.find();
+
+------------------------------------------------------
+Editando el archivo .bash_profile se pueden añadir alias y añadir los archivos binarios para la ejecución en terminal.
+
+alias www="cd /Applications/MAMP/htdocs"
+
+export PATH="$PATH:/$HOME/Library/mongodb-osx-x86_64-3 .4.10/bin"
+
+
+------------------------------------------------------
+
+Instalación de librerias
+(Dentro de la carpeta del proyecto)
+
+npp install express --save

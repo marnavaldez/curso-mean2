@@ -18,6 +18,13 @@ db.bookmarks.save({id: 1, title: 'Curso de Angular 2', url: 'http://victorrobles
 
 dbs.bookmarks.find();
 
+   BASE DE DATOS DEL CURSO
+   
+use curso_mean2
+db.artists.save({"name" : "Ulver", "description" : "Música Experimental", "image" : "null"});
+
+db.artists.find();
+
 ------------------------------------------------------
 Editando el archivo .bash_profile se pueden añadir alias y añadir los archivos binarios para la ejecución en terminal.
 
@@ -45,12 +52,19 @@ npm install nodemon --save-dev
 --save-dev  Permite que esta dependencia solo se use en desarrollo, y cuando este en producción, la dependencia ya no estará funcionando.
 
 express: 			 Es un framework para hacer API Rest sobre NodeJS.
+
 bcrypt-nodejs:		 Para encriptar contraseña al momento de registrar un usuario.
+
 body-parser: 		 Parsea los datos que lleguen por POST a  JSON de modo que todos los datos que lleguen se convierten en objetos JSON.
+
 connect-multiparty:  Permite subir ficheros con Node, es decir, utilizar el protocolo HTTP para recibir archivos por la variable superglobal file, y que los formularios tengan un multipart y poder enviar datos a la API y que se guarden esos ficheros en el servidor.
+
 jwt-simple:			 Autenticación con tokens
+
 mongoose: 			 Es un ORM para trabajar con la base de datos
+
 mongoose-pagination: Para hacer paginación en el proyecto.
+
 nodemon: 			 Para el desarrollo, permite cada vez que se hace un cambio en el API Rest, evitar que tener que apagar y prender el servidor
 
 ------------------------------------------------------

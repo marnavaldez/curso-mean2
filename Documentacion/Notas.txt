@@ -1,6 +1,7 @@
 Actualizar npm
 
 sudo npm install -g npm
+
 ------------------------------------------------------
 
 Al instalar mongodb, hay que crear una carpeta (data) en la raiz del disco duro, y dentro otra con nombre db
@@ -31,3 +32,36 @@ Instalación de librerias
 (Dentro de la carpeta del proyecto)
 
 npp install express --save
+npm install bcrypt-nodejs --save
+npm install body-parser --save
+npm install connect-multiparty --save
+npm install jwt-simple --save
+npm install moment --save
+npm install mongoose --save
+npm install mongoose-pagination --save
+npm install nodemon --save-dev
+
+--save 		Para que la libreria se guarde en las librerias del archivo package.json.
+--save-dev  Permite que esta dependencia solo se use en desarrollo, y cuando este en producción, la dependencia ya no estará funcionando.
+
+express: 			 Es un framework para hacer API Rest sobre NodeJS.
+bcrypt-nodejs:		 Para encriptar contraseña al momento de registrar un usuario.
+body-parser: 		 Parsea los datos que lleguen por POST a  JSON de modo que todos los datos que lleguen se convierten en objetos JSON.
+connect-multiparty:  Permite subir ficheros con Node, es decir, utilizar el protocolo HTTP para recibir archivos por la variable superglobal file, y que los formularios tengan un multipart y poder enviar datos a la API y que se guarden esos ficheros en el servidor.
+jwt-simple:			 Autenticación con tokens
+mongoose: 			 Es un ORM para trabajar con la base de datos
+mongoose-pagination: Para hacer paginación en el proyecto.
+nodemon: 			 Para el desarrollo, permite cada vez que se hace un cambio en el API Rest, evitar que tener que apagar y prender el servidor
+
+------------------------------------------------------
+Como desinstalar dependencias:
+
+npm uninstall mongoose --save
+
+------------------------------------------------------
+
+Si se agregan dependencias de manera manual al archivo package.json, hay que actualizar con el comando:
+
+npm install
+
+Se estaran descargando las dependencias indicadas.
